@@ -33,10 +33,16 @@ nav a{
     text-decoration:none;
     font-weight:bold;
 }
-img {
-    width: 100%; /* or any custom size */
-    height: 100%; 
-    object-fit: contain;
+.pathway{
+    text-align:center;
+    margin:40px 0;
+}
+
+.pathway img{
+    width:100%;
+    max-width:1000px;
+    height:auto;
+    border-radius:12px;
 }
 
 nav a:hover{
