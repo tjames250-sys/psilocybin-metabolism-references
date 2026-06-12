@@ -97,3 +97,12 @@ nav a{
 }
 
 }
+.pathway{
+    background:white;
+    border-radius:12px;
+    padding:25px;
+    text-align:center;
+    font-weight:bold;
+    margin:20px 0;
+    box-shadow:0 1px 4px rgba(0,0,0,.08);
+}
