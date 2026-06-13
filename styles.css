@@ -44,7 +44,12 @@ nav a{
     height:auto;
     border-radius:12px;
 }
-
+.pathway2 img{
+    width:100%;
+    max-width:1000px;
+    height:auto;
+    border-radius:12px;
+}
 nav a:hover{
     text-decoration:underline;
 }
