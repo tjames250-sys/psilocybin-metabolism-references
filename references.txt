@@ -1,0 +1,130 @@
+Dephosphorylation:
+
+-Ardito F, Giuliani M, Perrone D, Troiano G, Lo Muzio L (August 2017). 
+"The crucial role of protein phosphorylation in cell signaling and its use as targeted therapy (Review)". International Journal of Molecular Medicine. 40 (2): 271–280. doi:10.3892/ijmm.2017.3036. PMC 5500920. PMID 28656226.
+
+-den Hertog J (November 2003). 
+"Regulation of protein phosphatases in disease and behaviour". EMBO Reports. 4 (11): 1027–1032. doi:10.1038/sj.embor.7400009. PMC 1326379. PMID 14578923.
+
+On Psilocybin and Psychedelics:
+
+-Johnson MW, Griffiths RR, Hendricks PS, Henningfield JE (November 2018). 
+"The abuse potential of medical psilocybin according to the 8 factors of the Controlled Substances Act". Neuropharmacology. 142: 143–166. doi:10.1016/j.neuropharm.2018.05.012. PMC 6791528. PMID 29753748.
+
+-Passie T, Seifert J, Schneider U, Emrich HM (October 2002). 
+"The pharmacology of psilocybin". Addiction Biology. 7 (4): 357–364. doi:10.1080/1355621021000005937. PMID 14578010. S2CID 12656091. An interesting fact may be the much shorter half-life (mean 74.1 ± 19.6 minutes i.v. compared to 163 ± 64 minutes p.o.) and duration of action (subjective effects lasting only 15–30 minutes) when psilocybin is given intravenously, as performed in a recent double-blind placebo controlled trial.29
+ 
+-Chen CY, Storr CL, Anthony JC (March 2009). 
+"Early-onset drug use and risk for drug dependence problems". Addictive Behaviors. 34 (3): 319–322. doi:10.1016/j.addbeh.2008.10.021. PMC 2677076. PMID 19022584.
+
+-van Amsterdam J, Opperhuizen A, Koeter M, van den Brink W (2010). 
+"Ranking the harm of alcohol, tobacco and illicit drugs for the individual and the population". European Addiction Research. 16 (4): 202–207. doi:10.1159/000317249. PMID 20606445. S2CID 207669364.
+
+-Nutt DJ, King LA, Phillips LD (November 2010). 
+"Drug harms in the UK: a multicriteria decision analysis". Lancet. 376 (9752): 1558–1565. Bibcode:2010Lanc..376.1558N. CiteSeerX 10.1.1.690.1283. doi:10.1016/S0140-6736(10)61462-6. PMID 21036393. S2CID 5667719.
+
+-Nicholas LG, Ogame K (2006). Psilocybin Mushroom Handbook: Easy Indoor and Outdoor Cultivation. Oakland, California: Quick American Archives. p. 164. ISBN 978-0-932551-71-9. Archived from the original on April 4, 2017. Retrieved February 27, 2016.
+
+-Lowe H, Toyang N, Steele B, Valentine H, Grant J, Ali A, et al. (May 2021). 
+"The Therapeutic Potential of Psilocybin". Molecules. 26 (10): 2948. doi:10.3390/molecules26102948. PMC 8156539. PMID 34063505.
+
+-Szafoni S, Gręblowski P, Grabowska K, Więckiewicz G (June 11, 2024). 
+"Unlocking the healing power of psilocybin: an overview of the role of psilocybin therapy in major depressive disorder, obsessive-compulsive disorder and substance use disorder". Frontiers in Psychiatry. 15 1406888. doi:10.3389/fpsyt.2024.1406888. PMC 11196758. PMID 38919636.
+
+-Anvisa (July 24, 2023). 
+"RDC Nº 804 - Listas de Substâncias Entorpecentes, Psicotrópicas, Precursoras e Outras sob Controle Especial" [Collegiate Board Resolution No. 804 - Lists of Narcotic, Psychotropic, Precursor, and Other Substances under Special Control] (in Brazilian Portuguese). Diário Oficial da União (published July 25, 2023). Archived from the original on August 27, 2023. Retrieved August 27, 2023.
+
+-Dodd S, Norman TR, Eyre HA, Stahl SM, Phillips A, Carvalho AF, et al. (August 2023). 
+"Psilocybin in neuropsychiatry: a review of its pharmacology, safety, and efficacy" (PDF). CNS Spectr. 28 (4): 416–426. doi:10.1017/S1092852922000888. PMID 35811423.
+
+-MacCallum CA, Lo LA, Pistawka CA, Deol JK (2022). 
+"Therapeutic use of psilocybin: Practical considerations for dosing and administration". Frontiers in Psychiatry. 13 1040217. doi:10.3389/fpsyt.2022.1040217. PMC 9751063. PMID 36532184.
+
+-Hasler F, Bourquin D, Brenneisen R, Bär T, Vollenweider FX (June 1997). 
+"Determination of psilocin and 4-hydroxyindole-3-acetic acid in plasma by HPLC-ECD and pharmacokinetic profiles of oral and intravenous psilocybin in man". Pharm Acta Helv. 72 (3): 175–184. doi:10.1016/s0031-6865(97)00014-9. PMID 9204776.
+
+-Čampara A, Kovačić D (2024). 
+"Exploring Psilocybin as a Tool for Studying Parkinsonism-Related Psychosis: A Narrative Review Supplemented with a Computational Approach". MEDICON'23 and CMBEBIH'23. IFMBE Proceedings. Vol. 94. Cham: Springer Nature Switzerland. pp. 530–547. doi:10.1007/978-3-031-49068-2_54. ISBN 978-3-031-49067-5. With a logS value of −3.009 and a plasma protein binding of 0.66, respectively, psilocybin has poor water solubility and is moderately bound to plasma proteins.
+
+-Holze F, Singh N, Liechti ME, D'Souza DC (May 2024). 
+"Serotonergic Psychedelics: A Comparative Review of Efficacy, Safety, Pharmacokinetics, and Binding Profile". Biol Psychiatry Cogn Neurosci Neuroimaging. 9 (5): 472–489. doi:10.1016/j.bpsc.2024.01.007. PMID 38301886.
+
+-Pharmaceuticals (Basel). 2025 Jul 1;18(7):989. doi: 10.3390/ph18070989
+--Chemical Composition and Biological Activities of Psilocybe Mushrooms: Gaps and Perspectives
+Mateus A Luz 1,2, Hellen V S Guedes 1,2, Antônio B M Bisneto 2,3, Raquel A de Jesus 2, Taynah P Galdino 2, Lucas C Oliveira 2, Victor Ignacio Afonso 4, Marcus Vinícius L Fook 2, Antônio G B Lima 5, Suedina M de L Silva 2,*, Maria C M Torres 1,2,*
+Editors: Sabine Berteina-Raboin, Raphaël Serreau
+PMCID: PMC12299699  PMID: 40732278
+
+MAOIs:
+
+-2021 Apr 30;12:676239. doi: 10.3389/fphar.2021.676239
+--Monoamine Oxidase Inhibitors: A Review of Their Anti-Inflammatory Therapeutic Potential and Mechanisms of Action
+Mahyar Ostadkarampour 1, Edward E Putnins 1,*
+PMCID: PMC8120032  PMID: 33995107
+
+-J Phys Chem B. 2020 Aug 26;124(38):8259–8265. doi: 10.1021/acs.jpcb.0c06502
+--How Monoamine Oxidase A Decomposes Serotonin: An Empirical Valence Bond Simulation of the Reactive Step
+Alja Prah †,‡, Miha Purg §, Jernej Stare †, Robert Vianello ∥, Janez Mavri †,*
+PMCID: PMC7520887  PMID: 32845149
+
+Metabolism:
+
+-In vitro and in vivo metabolism of psilocybin's active metabolite psilocin.
+Authors
+Thomann Jan, Kolaczynska Karolina E, Stoeckmann Oliver V, Rudin Deborah, Vizeli Patrick, Hoener Marius C, Pryce Christopher R, Vollenweider Franz X, Liechti Matthias E, Duthaler Urs
+Cross-References
+PMID:38741590(opens in new window) PMCID:PMC11089204(opens in new window) DOI:10.3389/fphar.2024.1391689
+
+-Addict Biol. 2025 Jul 1;30(7):e70063. doi: 10.1111/adb.70063
+--4‐HIAA Blocks Methamphetamine‐Induced Conditioned Place Preference in Mice Through Modulation of the 5‐HT Pathway in the Nucleus Accumbens
+Yanan Wu 1, Ju Ran 1, Jinqiu Mo 1,✉, Jing Wang 2,3,✉
+PMCID: PMC12210140  PMID: 40590377
+
+-Biochemistry, 5 Hydroxyindoleacetic Acid (a metabolite of serotonin)
+Jennifer R. Lenchner; Cynthia Santos.
+Authors
+Jennifer R. Lenchner1; Cynthia Santos2.
+Affiliations
+1 LECOM - Seton Hill
+2 Rutgers New Jersey Medical School
+Last Update: May 1, 2023.
+
+-Metabolic engineering of Saccharomyces cerevisiae for the de novo production of psilocybin and related tryptamine derivatives
+N. Milne, P. Thomsen, N. Knudsen, P. Rubaszka, M. Kristensen, I. Borodina
+The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs, Lyngby, Denmark
+Received 8 October 2019, Revised 12 December 2019, Accepted 26 December 2019, Available online 26 March 2020, Version of Record 1 April 2020.
+
+psychedelic research:
+
+-J Neurosci. 2025 Dec 10;45(50):e0652252025. doi: 10.1523/JNEUROSCI.0652-25.2025.
+--The Psychedelic Psilocin Suppresses Activity of Central Amygdala Corticotropin-Releasing Factor Receptor 1 Neurons and Decreases Ethanol Drinking in Female Mice
+Sarah N Magee 1 2, Allison C Sereno 2, Maria Echeveste-Sanchez 1 2, Elizabeth G Shannon 2, Abir Mohsin 2, Sarah E Mott 3, Sara P Faccidomo 2 4, Clyde W Hodge 2 4, Melissa A Herman 5 3
+PMID: 41213805 PMCID: PMC12696609 (available on 2026-06-10) DOI: 10.1523/JNEUROSCI.0652-25.2025
+
+-Pharmaceuticals (Basel). 2025 Jul 1;18(7):989. doi: 10.3390/ph18070989
+--Chemical Composition and Biological Activities of Psilocybe Mushrooms: Gaps and Perspectives
+Mateus A Luz 1,2, Hellen V S Guedes 1,2, Antônio B M Bisneto 2,3, Raquel A de Jesus 2, Taynah P Galdino 2, Lucas C Oliveira 2, Victor Ignacio Afonso 4, Marcus Vinícius L Fook 2, Antônio G B Lima 5, Suedina M de L Silva 2,*, Maria C M Torres 1,2,*
+Editors: Sabine Berteina-Raboin, Raphaël Serreau
+PMCID: PMC12299699  PMID: 40732278
+
+-Eur J Pharmacol. 1994 Aug 1;260(2-3):139-47. doi: 10.1016/0014-2999(94)90330-1.
+--Characterization of 5-hydroxytryptamine-induced depolarizations in rat isolated vagus nerve
+K R Bley 1, R M Eglen, E H Wong
+Affiliations
+1 Department of Neurosciences, Institute of Pharmacology, Syntex Discovery Research, Palo Alto, CA 94305.
+PMID: 7988637 DOI: 10.1016/0014-2999(94)90330-1
+
+-Front Mol Neurosci. 2021 Oct 12:14:748359. doi: 10.3389/fnmol.2021.748359. eCollection 2021.
+--Serotonergic Psychedelics in Neural Plasticity
+Kacper Lukasiewicz 1, Jacob J Baker 1, Yi Zuo 1, Ju Lu 1
+1 Department of Molecular, Cell and Developmental Biology, University of California, Santa Cruz, Santa Cruz, CA, United States.
+PMID: 34712118 PMCID: PMC8545892 DOI: 10.3389/fnmol.2021.748359
+
+Harmine and PD:
+
+Toxicol Sci. 2018 Feb 1;161(2):335-348. doi: 10.1093/toxsci/kfx223.
+From the Cover: Harmane-Induced Selective Dopaminergic Neurotoxicity in Caenorhabditis elegans
+Shreesh Raj Sammi 1 2, Zeynep Sena Agim 1 2, Jason R Cannon 1 2
+1 School of Health Sciences.
+2 Purdue Institute for Integrative Neurosciences, Purdue University, West Lafayette, Indiana 47907.
+PMID: 29069497 PMCID: PMC5837500 DOI: 10.1093/toxsci/kfx223
