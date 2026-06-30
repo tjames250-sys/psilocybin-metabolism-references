@@ -128,3 +128,9 @@ Shreesh Raj Sammi 1 2, Zeynep Sena Agim 1 2, Jason R Cannon 1 2
 1 School of Health Sciences.
 2 Purdue Institute for Integrative Neurosciences, Purdue University, West Lafayette, Indiana 47907.
 PMID: 29069497 PMCID: PMC5837500 DOI: 10.1093/toxsci/kfx223
+Mushroom matrix / stability / oxidation:
+
+-Gotvaldova K, Hajkova K, Borovicka J, Jurok R, Cihlarova P, Kuchar M (2020).
+"Stability of psilocybin and its four analogs in the biomass of the psychotropic mushroom Psilocybe cubensis". Drug Testing and Analysis. doi:10.1002/dta.2950.
+-Lenz C, Wick J, Braga D, Garcia-Altares M, Lackner G, Hertweck C, Gressler M, Hoffmeister D (2019).
+"Injury-Triggered Blueing Reactions of Psilocybe Magic Mushrooms". Angewandte Chemie International Edition. doi:10.1002/anie.201910175.
