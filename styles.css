@@ -115,6 +115,24 @@ summary {
   border-radius: 12px;
 }
 
+.pathway2 {
+  margin: 28px 0;
+  text-align: center;
+}
+
+.pathway2 + .pathway2 {
+  margin-top: 36px;
+}
+
+.chemical-legend {
+  margin-bottom: 42px;
+}
+
+.chemical-legend img {
+  max-width: 940px;
+  box-shadow: var(--shadow-soft);
+}
+
 footer {
   background: var(--nav-bg);
   color: #ffffff;
