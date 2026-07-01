@@ -343,7 +343,9 @@ nav.brochure-actions a {
     background: #ffffff;
   }
 
-  .brochure-header,
+  header,
+  body > nav,
+  footer,
   .brochure-actions,
   .brochure-note {
     display: none;
