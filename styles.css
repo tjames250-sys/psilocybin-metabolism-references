@@ -318,7 +318,7 @@ body::before {
   width: min(28vw, 390px);
   height: min(58vh, 540px);
   background: url("mushroom-tower-cutout.png") right bottom / contain no-repeat;
-  opacity: 0.16;
+  opacity: 0.22;
   pointer-events: none;
   z-index: 0;
 }
