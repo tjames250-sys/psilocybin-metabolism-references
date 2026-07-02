@@ -368,3 +368,23 @@ nav.brochure-actions a {
     border-radius: 0;
   }
 }
+
+.source-note {
+  background: var(--panel);
+  border-radius: 10px;
+  box-shadow: var(--shadow-soft);
+  margin: 14px 0 4px;
+  padding: 12px 14px;
+  font-size: 0.95rem;
+}
+
+.source-note a,
+footer a {
+  color: inherit;
+  font-weight: bold;
+}
+
+footer a {
+  display: inline-block;
+  margin: 8px 10px 0;
+}
