@@ -1,4 +1,4 @@
-﻿/* Base site styles */
+/* Base site styles */
 :root {
   --bg: #f6f3ea;
   --panel: #ffffff;
@@ -17,6 +17,7 @@
 }
 
 body {
+  position: relative;
   margin: 0;
   background: var(--bg);
   color: var(--ink);
@@ -308,6 +309,28 @@ nav.brochure-actions a {
   font: 700 0.78rem Arial, sans-serif;
   color: var(--ink);
 }
+
+body::before {
+  content: "";
+  position: fixed;
+  left: clamp(-140px, -6vw, -40px);
+  bottom: 0;
+  width: min(38vw, 520px);
+  height: min(76vh, 720px);
+  background: url("mushroom-tower-cutout.png") left bottom / contain no-repeat;
+  opacity: 0.075;
+  pointer-events: none;
+  z-index: 0;
+}
+
+header,
+body > nav,
+.container,
+footer {
+  position: relative;
+  z-index: 1;
+}
+
 @media (max-width: 700px) {
   header {
     min-height: 380px;
@@ -322,6 +345,9 @@ nav.brochure-actions a {
     grid-template-columns: 1fr;
   }
 
+  body::before {
+    display: none;
+  }
 
   nav a {
     display: block;
@@ -340,9 +366,11 @@ nav.brochure-actions a {
 
 @media print {
   body {
+    position: relative;
     background: #ffffff;
   }
 
+  body::before,
   header,
   body > nav,
   footer,
