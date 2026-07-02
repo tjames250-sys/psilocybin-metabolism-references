@@ -313,12 +313,12 @@ nav.brochure-actions a {
 body::before {
   content: "";
   position: fixed;
-  left: clamp(-140px, -6vw, -40px);
-  bottom: 0;
-  width: min(38vw, 520px);
-  height: min(76vh, 720px);
-  background: url("mushroom-tower-cutout.png") left bottom / contain no-repeat;
-  opacity: 0.075;
+  right: clamp(16px, 4vw, 64px);
+  bottom: clamp(18px, 5vh, 56px);
+  width: min(28vw, 390px);
+  height: min(58vh, 540px);
+  background: url("mushroom-tower-cutout.png") right bottom / contain no-repeat;
+  opacity: 0.16;
   pointer-events: none;
   z-index: 0;
 }
