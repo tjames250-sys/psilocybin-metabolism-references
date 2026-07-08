@@ -1,4 +1,4 @@
-﻿PSILOCYBIN METABOLISM REFERENCES
+PSILOCYBIN METABOLISM REFERENCES
 Clean bibliography, deduplicated and grouped by topic.
 Raw research notes and commentary are preserved separately in research-notes-raw.txt.
 
@@ -59,6 +59,9 @@ SECONDARY ALKALOIDS, BETA-CARBOLINES, AND MUSHROOM MATRIX
 
 Blei F, Dorner S, Fricke J, Baldeweg F, Trottmann F, Komor A, Meyer F, Hertweck C, Hoffmeister D (2019).
 "Simultaneous Production of Psilocybin and a Cocktail of beta-Carboline Monoamine Oxidase Inhibitors in Magic Mushrooms". Chemistry - A European Journal. 26(3):729-734. doi:10.1002/chem.201904363.
+
+Piechowska P, Zawirska-Wojtasiak R, Mildner-Szkudlarz S (2019).
+"Bioactive beta-Carbolines in Food: A Review". Nutrients. 11(4):814. doi:10.3390/nu11040814. PMCID: PMC6520841. PMID: 30978920.
 
 Gotvaldova K, Hajkova K, Borovicka J, Jurok R, Cihlarova P, Kuchar M (2020).
 "Stability of psilocybin and its four analogs in the biomass of the psychotropic mushroom Psilocybe cubensis". Drug Testing and Analysis. 13(2):439-446. doi:10.1002/dta.2950.
