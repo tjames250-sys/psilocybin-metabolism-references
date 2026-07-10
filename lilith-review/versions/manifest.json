@@ -1,5 +1,12 @@
 [
   {
+    "id": "header-band-consistency-v1",
+    "date": "2026-07-09",
+    "title": "Header Band Consistency v1",
+    "summary": "Applies the quiet header-band rule to Activation and Main Metabolic Routes for consistency across AI-hybrid panels.",
+    "path": "header-band-consistency-v1/"
+  },
+  {
     "id": "signals-title-band-v1",
     "date": "2026-07-09",
     "title": "Signals Title Band v1",
