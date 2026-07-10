@@ -1,5 +1,12 @@
 [
   {
+    "id": "activation-border-v8",
+    "date": "2026-07-10",
+    "title": "Activation Border v8",
+    "summary": "Crops out the generated Activation source border so the official code-drawn border owns the panel edge.",
+    "path": "activation-border-v8/"
+  },
+  {
     "id": "header-band-consistency-v1",
     "date": "2026-07-09",
     "title": "Header Band Consistency v1",
