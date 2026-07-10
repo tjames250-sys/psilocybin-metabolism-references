@@ -1,5 +1,12 @@
 [
   {
+    "id": "recovery-context-ai-v2",
+    "date": "2026-07-10",
+    "title": "Recovery Context AI v2",
+    "summary": "Adds the Recovery-Relevant Context AI-hybrid panel connecting plasticity, learning windows, and support.",
+    "path": "recovery-context-ai-v2/"
+  },
+  {
     "id": "beyond-ai-v1",
     "date": "2026-07-10",
     "title": "Beyond AI v1",
