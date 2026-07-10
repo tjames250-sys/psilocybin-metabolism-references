@@ -1,5 +1,12 @@
 [
   {
+    "id": "right-clearance-ai-v1",
+    "date": "2026-07-09",
+    "title": "Right Clearance AI v1",
+    "summary": "Adds the right-column One Possible Clearance Pathway AI-hybrid pass with a code-drawn psilocin to 4-HIAA route strip.",
+    "path": "right-clearance-ai-v1/"
+  },
+  {
     "id": "center-ai-hybrid-routes-v2",
     "date": "2026-07-09",
     "title": "Center AI Hybrid Routes v2",
