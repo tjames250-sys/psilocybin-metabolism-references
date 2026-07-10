@@ -1,5 +1,12 @@
 [
   {
+    "id": "signals-title-band-v1",
+    "date": "2026-07-09",
+    "title": "Signals Title Band v1",
+    "summary": "Adds a quiet title band to Signals That May Support Plasticity so the header no longer competes with the art.",
+    "path": "signals-title-band-v1/"
+  },
+  {
     "id": "right-clearance-ai-v4",
     "date": "2026-07-09",
     "title": "Right Clearance AI v4",
