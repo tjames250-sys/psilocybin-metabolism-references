@@ -1,5 +1,12 @@
 [
   {
+    "id": "center-ai-hybrid-routes-v2",
+    "date": "2026-07-09",
+    "title": "Center AI Hybrid Routes v2",
+    "summary": "Fixes the central activation arrow in Main Metabolic Routes so all route arrows share the same illustrated style.",
+    "path": "center-ai-hybrid-routes-v2/"
+  },
+  {
     "id": "center-ai-hybrid-routes-v1",
     "date": "2026-07-09",
     "title": "Center AI Hybrid Routes v1",
