@@ -1,5 +1,12 @@
 [
   {
+    "id": "activation-border-v11",
+    "date": "2026-07-10",
+    "title": "Activation Border v11",
+    "summary": "Applies the AI Border Rule to Activation: crop source border, clip art to the official rounded panel, draw code border last.",
+    "path": "activation-border-v11/"
+  },
+  {
     "id": "activation-border-v8",
     "date": "2026-07-10",
     "title": "Activation Border v8",
