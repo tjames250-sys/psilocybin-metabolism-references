@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyond-ai-v1",
+    "date": "2026-07-10",
+    "title": "Beyond AI v1",
+    "summary": "Adds the Beyond One Compound AI-hybrid panel with the border clipping rule and recovery-facing trace-compound question.",
+    "path": "beyond-ai-v1/"
+  },
+  {
     "id": "activation-border-v11",
     "date": "2026-07-10",
     "title": "Activation Border v11",
