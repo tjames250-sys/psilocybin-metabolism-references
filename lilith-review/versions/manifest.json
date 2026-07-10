@@ -1,5 +1,12 @@
 [
   {
+    "id": "right-clearance-ai-v4",
+    "date": "2026-07-09",
+    "title": "Right Clearance AI v4",
+    "summary": "Adds a quiet title band to keep One Possible Clearance Pathway readable over the art while preserving edge bleed.",
+    "path": "right-clearance-ai-v4/"
+  },
+  {
     "id": "right-clearance-ai-v2",
     "date": "2026-07-09",
     "title": "Right Clearance AI v2",
