@@ -10,3 +10,8 @@ Reference website accompanying the educational brochure exploring:
 - Neuroplasticity
 
 Created by Tristan James.
+
+## Brochure review
+
+The live Lilith brochure review page is available under `lilith-review/`.
+Archived snapshots are kept under `lilith-review/versions/`.

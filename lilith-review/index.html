@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lilith Brochure Review</title>
+<style>
+  :root {
+    --ink: #0a2b5e;
+    --teal: #007c7e;
+    --paper: #f8f4ed;
+    --card: #fffdf8;
+    --line: rgba(0, 124, 126, .32);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: Georgia, "Times New Roman", serif;
+  }
+  header, main, footer {
+    width: min(1120px, calc(100vw - 28px));
+    margin: 0 auto;
+  }
+  header {
+    padding: 24px 0 16px;
+    border-bottom: 3px solid var(--teal);
+  }
+  h1 {
+    margin: 0 0 6px;
+    font-size: clamp(32px, 7vw, 58px);
+    line-height: 1;
+  }
+  .subhead, p, a, li {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .subhead {
+    margin: 0;
+    color: #255;
+    font-size: 16px;
+    line-height: 1.45;
+  }
+  nav {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+  a {
+    color: var(--teal);
+    font-weight: 700;
+  }
+  nav a {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 8px 12px;
+    text-decoration: none;
+    background: rgba(255, 255, 255, .5);
+  }
+  main {
+    display: grid;
+    gap: 18px;
+    padding: 20px 0 32px;
+  }
+  .card {
+    background: var(--card);
+    border: 2px solid var(--line);
+    border-radius: 10px;
+    padding: 14px;
+    box-shadow: 0 3px 12px rgba(10, 43, 94, .08);
+  }
+  h2 {
+    margin: 0 0 8px;
+    font-size: clamp(24px, 5vw, 38px);
+    line-height: 1.08;
+  }
+  p {
+    margin: 0 0 12px;
+    font-size: 15px;
+    line-height: 1.4;
+  }
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    background: white;
+    border: 1px solid rgba(10, 43, 94, .18);
+  }
+  .grid {
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  }
+  footer {
+    padding: 0 0 28px;
+    color: #255;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Lilith Brochure Review</h1>
+  <p class="subhead">Live review page for the current brochure back-side redraw. This page is designed for phone review through GitHub Pages.</p>
+  <nav>
+    <a href="#full-proof">Current Proof</a>
+    <a href="#center-panels">Center Panels</a>
+    <a href="versions/">Previous Versions</a>
+  </nav>
+</header>
+<main>
+  <section class="card" id="full-proof">
+    <h2>Current Live Proof</h2>
+    <p>Center-column AI-hybrid pass with Activation, Signals That May Support Plasticity, and Main Metabolic Routes in the current visual system.</p>
+    <img src="assets/current/full-proof-preview.png" alt="Current Lilith brochure proof preview" />
+  </section>
+
+  <section id="center-panels">
+    <div class="grid">
+      <article class="card">
+        <h2>Activation</h2>
+        <p>AI art bleeds to the official code-drawn border; deterministic text and conversion strip.</p>
+        <img src="assets/current/activation-preview.png" alt="Activation panel preview" />
+      </article>
+      <article class="card">
+        <h2>Signals</h2>
+        <p>Receptor/plasticity panel using the same bleed-art and code-layout method.</p>
+        <img src="assets/current/signals-preview.png" alt="Signals That May Support Plasticity preview" />
+      </article>
+      <article class="card">
+        <h2>Metabolic Routes</h2>
+        <p>Illustrated metabolic pathway with deterministic labels and accentuated route arrows.</p>
+        <img src="assets/current/metabolic-routes-preview.png" alt="Main Metabolic Routes preview" />
+      </article>
+    </div>
+  </section>
+</main>
+<footer>
+  Current snapshot: center-ai-hybrid-routes-v1.
+</footer>
+</body>
+</html>
