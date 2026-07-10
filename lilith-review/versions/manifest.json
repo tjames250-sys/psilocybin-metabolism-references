@@ -1,5 +1,12 @@
 [
   {
+    "id": "right-clearance-ai-v2",
+    "date": "2026-07-09",
+    "title": "Right Clearance AI v2",
+    "summary": "Softens clearance route subheader colors into calm label capsules to reduce art/text clash.",
+    "path": "right-clearance-ai-v2/"
+  },
+  {
     "id": "right-clearance-ai-v1",
     "date": "2026-07-09",
     "title": "Right Clearance AI v1",
