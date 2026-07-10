@@ -1,5 +1,12 @@
 [
   {
+    "id": "left-recovery-ai-v1",
+    "date": "2026-07-10",
+    "title": "Left Recovery AI v1",
+    "summary": "Adds the first left-column AI-hybrid panel: Recovery Orientation.",
+    "path": "left-recovery-ai-v1/"
+  },
+  {
     "id": "why-ai-v1",
     "date": "2026-07-10",
     "title": "Why AI v1",
