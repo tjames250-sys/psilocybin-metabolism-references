@@ -1,5 +1,12 @@
 [
   {
+    "id": "why-ai-v1",
+    "date": "2026-07-10",
+    "title": "Why AI v1",
+    "summary": "Adds the Why This Matters AI-hybrid closing panel and completes the right-column AI-hybrid visual pass.",
+    "path": "why-ai-v1/"
+  },
+  {
     "id": "recovery-context-ai-v2",
     "date": "2026-07-10",
     "title": "Recovery Context AI v2",
