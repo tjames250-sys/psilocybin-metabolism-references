@@ -231,6 +231,14 @@ footer {
   box-shadow: var(--shadow-large);
 }
 
+.brochure-side + .brochure-side {
+  margin-top: 2.5rem;
+}
+
+.brochure-side h2 {
+  margin-top: 0;
+}
+
 .brochure-viewer img {
   display: block;
   width: 100%;
