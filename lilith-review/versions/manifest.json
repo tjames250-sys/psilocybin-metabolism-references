@@ -1,5 +1,12 @@
 [
   {
+    "id": "left-ai-pass-complete-v1",
+    "date": "2026-07-10",
+    "title": "Left AI Pass Complete v1",
+    "summary": "Completes the left-column AI-hybrid drawing pass through Perspective.",
+    "path": "left-ai-pass-complete-v1/"
+  },
+  {
     "id": "left-important-note-ai-v1",
     "date": "2026-07-10",
     "title": "Left Important Note AI v1",
