@@ -1,5 +1,12 @@
 [
   {
+    "id": "alkaloids-copy-v2",
+    "date": "2026-07-10",
+    "title": "Alkaloids Copy v2",
+    "summary": "Shortens the Other Mushroom Alkaloids body copy to remove a redundant psilocybin mention.",
+    "path": "alkaloids-copy-v2/"
+  },
+  {
     "id": "left-ai-pass-complete-v1",
     "date": "2026-07-10",
     "title": "Left AI Pass Complete v1",
