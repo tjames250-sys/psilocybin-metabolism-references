@@ -1,5 +1,12 @@
 [
   {
+    "id": "left-important-note-ai-v1",
+    "date": "2026-07-10",
+    "title": "Left Important Note AI v1",
+    "summary": "Adds the left-column Important Note AI-hybrid panel.",
+    "path": "left-important-note-ai-v1/"
+  },
+  {
     "id": "left-alkaloids-ai-v1",
     "date": "2026-07-10",
     "title": "Left Alkaloids AI v1",
