@@ -1,5 +1,12 @@
 [
   {
+    "id": "left-neuro-ai-v1",
+    "date": "2026-07-10",
+    "title": "Left Neuro AI v1",
+    "summary": "Adds the left-column Neuroplasticity & Neural Remapping AI-hybrid panel.",
+    "path": "left-neuro-ai-v1/"
+  },
+  {
     "id": "left-recovery-ai-v1",
     "date": "2026-07-10",
     "title": "Left Recovery AI v1",
