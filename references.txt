@@ -190,3 +190,31 @@ Health Canada (2024).
 
 LADbible Stories (n.d.).
 "7 People Debate: Should All Drugs Be Legal? | Jury Room". YouTube video / public-policy discussion resource. https://www.youtube.com/watch?v=FGrahMCKQog
+
+================================================================================
+EMERGING RESEARCH, CURRENT TRIALS, AND REGULATORY STATUS
+================================================================================
+
+Mertens LJ, Betzler F, Brand M, Evens R, Jungaberle A, Jungaberle H, Kärtner L, Majić T, Schmitz CN, Ströhle A, Scharf D, Spangemacher M, Wolff M, Assadi Z, Bahri S, Becher L, Färber LV, Harder H, Kirchen N, Kulakova E, Kunz LC, Meijer A, Rohrmoser B, Wellek S, Berger MM, Koslowski M, Gründer G (2026).
+"Long-Term Efficacy of Psilocybin with Adjunct Psychotherapy in Treatment-Resistant Major Depression (EPIsoDE): 6- and 12-Month Naturalistic Follow-Up of a Phase 2b Trial". Psychotherapy and Psychosomatics. doi:10.1159/000552272.
+
+Definium Therapeutics US, Inc. (2026).
+"A Phase 3 Trial of DT120 for Major Depressive Disorder (Emerge)". ClinicalTrials.gov identifier NCT06941844. https://clinicaltrials.gov/study/NCT06941844
+
+Nardou R, Sawyer E, Song YJ, Wilkinson M, Padovan-Hernandez Y, de Deus JL, Wright N, Lama C, Faltin S, Goff LA, Stein-O'Brien GL, Dölen G (2023).
+"Psychedelics reopen the social reward learning critical period". Nature. 618:790-798. doi:10.1038/s41586-023-06204-3.
+
+M.D. Anderson Cancer Center (2026).
+"Psilocybin-Assisted Psychotherapy in Patients With Advanced Cancer on Maintenance Therapy". ClinicalTrials.gov identifier NCT06200155. https://clinicaltrials.gov/study/NCT06200155
+
+M.D. Anderson Cancer Center (2026).
+"NeuroGuard: Psilocybin Trial for Preventing Chemo-induced Neuropathy". ClinicalTrials.gov identifier NCT07227909. https://clinicaltrials.gov/study/NCT07227909
+
+Ahmad S, Wu T, Arnold M, Hankemeier T, Ghanbari M, Roshchupkin G, Uitterlinden AG, Borkowski K, Neitzel J, Kraaij R, The Alzheimer's Disease Metabolomics Consortium, van Duijn CM, Ikram MA, Kaddurah-Daouk R, Kastenmüller G (2026).
+"The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome". Nature Aging. doi:10.1038/s43587-026-01149-4.
+
+U.S. Food and Drug Administration (2025).
+"SPRAVATO (esketamine) nasal spray, CIII: Prescribing Information". Revised 04/2025. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211243s019lbl.pdf
+
+U.S. Department of Justice, Drug Enforcement Administration, Diversion Control Division (2026).
+"Controlled Substances - Alphabetical Order". Orange Book controlled substances list, revised 25-Jun-26. https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf
