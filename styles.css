@@ -74,6 +74,13 @@ header img {
   font-size: clamp(1rem, 2vw, 1.25rem);
 }
 
+.eyebrow {
+  margin: 0 0 8px;
+  font: 700 0.82rem Arial, sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 nav {
   background: var(--nav-bg);
   text-align: center;
@@ -308,6 +315,97 @@ nav.brochure-actions a {
   padding: 16px;
 }
 
+/* Author perspective page */
+.perspective-page article section {
+  margin-top: 52px;
+}
+
+.perspective-opening {
+  padding-bottom: 8px;
+}
+
+.lede {
+  max-width: 820px;
+  margin: 0 auto 24px;
+  font-size: 1.2rem;
+  line-height: 1.75;
+}
+
+.section-map {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  margin-top: 24px;
+  padding: 16px;
+  border-radius: 8px;
+  background: var(--panel-soft);
+  text-align: left;
+}
+
+.section-map a {
+  margin: 0;
+  color: var(--ink);
+  font-weight: normal;
+}
+
+.stance-block,
+.experience-note,
+.research-signal,
+.closing-statement {
+  margin: 20px 0;
+  padding: 18px 20px;
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow-soft);
+}
+
+.stance-block {
+  border-top: 4px solid #c6922f;
+}
+
+.stance-block > strong {
+  font-size: 1.25rem;
+}
+
+.stance-block p,
+.experience-note p,
+.research-signal p,
+.closing-statement p {
+  margin-bottom: 0;
+}
+
+.research-signal h3 {
+  margin: 8px 0 0;
+}
+
+.pull-quote {
+  max-width: 850px;
+  margin: 28px auto;
+  padding: 18px 24px;
+  border-left: 5px solid var(--accent);
+  color: #16243a;
+  font-size: 1.25rem;
+  font-style: italic;
+}
+
+.question-list {
+  margin: 22px 0;
+}
+
+.question-list p {
+  margin: 0 0 12px;
+  padding: 14px 16px;
+  border-left: 5px solid var(--accent);
+  background: var(--panel-soft);
+}
+
+.closing-statement {
+  border: 2px solid var(--accent);
+  text-align: center;
+  font-size: 1.08rem;
+}
+
 .label {
   display: inline-block;
   border: 1px solid rgba(36, 52, 77, 0.2);
@@ -351,6 +449,16 @@ footer {
 
   .topic-grid {
     grid-template-columns: 1fr;
+  }
+
+  .section-map {
+    display: block;
+  }
+
+  .section-map strong,
+  .section-map a {
+    display: block;
+    margin: 8px 0;
   }
 
   body::before {

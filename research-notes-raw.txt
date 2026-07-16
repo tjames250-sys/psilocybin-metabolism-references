@@ -151,3 +151,9 @@ Page-cited references to fold into final bibliography:
 
 -Agnorelli C, Spriggs M, Godfrey K, Sawicka G, Bohl B, Douglass H, Fagiolini A, Parastoo H, Carhart-Harris R, Nutt D, Erritzoe D (2025).
 "Neuroplasticity and psychedelics: A comprehensive examination of classic and non-classic compounds in pre and clinical models". Neuroscience & Biobehavioral Reviews. doi:10.1016/j.neubiorev.2025.106132.
+
+Future site scope (not yet integrated):
+
+- Nootropics and adaptogens.
+- Neuroprotective fungi and neurodegenerative-disease research.
+- Medication-risk and interaction expansion.
