@@ -376,6 +376,7 @@ nav.brochure-actions a {
 .stance-block,
 .experience-note,
 .research-signal,
+.connection-reflection,
 .closing-statement {
   margin: 20px 0;
   padding: 18px 20px;
@@ -400,6 +401,14 @@ nav.brochure-actions a {
 }
 
 .research-signal h3 {
+  margin: 8px 0 0;
+}
+
+.connection-reflection {
+  border-top: 4px solid #7ea37a;
+}
+
+.connection-reflection h3 {
   margin: 8px 0 0;
 }
 
