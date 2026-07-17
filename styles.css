@@ -105,6 +105,24 @@ nav a:focus {
   text-decoration: underline;
 }
 
+body > nav > a + a::before {
+  content: ">";
+  display: inline-block;
+  margin-right: 18px;
+  color: #aebbd0;
+  font-weight: normal;
+}
+
+body > nav > a[href="perspective.html"] {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+body > nav > a[href="perspective.html"]::before {
+  content: none;
+}
+
 .container {
   max-width: 1000px;
   margin: auto;
@@ -478,6 +496,10 @@ footer {
   nav a {
     display: block;
     margin: 10px 0;
+  }
+
+  body > nav > a::before {
+    content: none;
   }
 
   .container {
