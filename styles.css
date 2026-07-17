@@ -81,6 +81,12 @@ header img {
   text-transform: uppercase;
 }
 
+.hero h1.perspective-title {
+  max-width: none;
+  white-space: nowrap;
+  font-size: clamp(2.3rem, 4.6vw, 4.4rem);
+}
+
 nav {
   background: var(--nav-bg);
   text-align: center;
@@ -445,6 +451,10 @@ footer {
   .hero {
     width: min(100% - 32px, 1000px);
     padding: 90px 0 36px;
+  }
+
+  .hero h1.perspective-title {
+    white-space: normal;
   }
 
   .topic-grid {
