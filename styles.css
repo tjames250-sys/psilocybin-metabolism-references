@@ -377,6 +377,7 @@ nav.brochure-actions a {
 .experience-note,
 .research-signal,
 .connection-reflection,
+.policy-milestone,
 .closing-statement {
   margin: 20px 0;
   padding: 18px 20px;
@@ -409,6 +410,14 @@ nav.brochure-actions a {
 }
 
 .connection-reflection h3 {
+  margin: 8px 0 0;
+}
+
+.policy-milestone {
+  border-top: 4px solid #c6922f;
+}
+
+.policy-milestone h3 {
   margin: 8px 0 0;
 }
 
