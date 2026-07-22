@@ -390,11 +390,6 @@ nav.brochure-actions a {
   color: var(--accent);
 }
 
-.section-jump {
-  margin-bottom: 0;
-  font-weight: bold;
-}
-
 /* Author perspective page */
 .perspective-page article section {
   margin-top: 52px;
