@@ -172,14 +172,15 @@ summary {
 }
 
 .summary-link a {
-  color: var(--ink);
+  color: var(--link);
   text-decoration: none;
 }
 
 .summary-link a::before {
-  content: "\25B8";
+  content: "\2022";
   display: inline-block;
   margin-right: 0.4em;
+  color: var(--accent);
 }
 
 .summary-link a:hover,
