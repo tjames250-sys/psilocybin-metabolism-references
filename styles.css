@@ -166,6 +166,27 @@ summary {
   font-weight: bold;
 }
 
+.summary-link {
+  margin: 15px 0 0;
+  font-weight: bold;
+}
+
+.summary-link a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.summary-link a::before {
+  content: "\25B8";
+  display: inline-block;
+  margin-right: 0.4em;
+}
+
+.summary-link a:hover,
+.summary-link a:focus {
+  text-decoration: underline;
+}
+
 .pathway {
   text-align: center;
   font-weight: bold;
