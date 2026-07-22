@@ -27,18 +27,19 @@ Paid promotion does not begin until the site can measure discovery, page interes
 
 Create a short reader pathway for four audiences:
 
-- **Recovery staff:** Recovery Map -> clinical context -> recovery references
-- **Researchers:** Emerging Research -> Open Questions -> bibliography and contributions
-- **Advocates:** recovery policy -> Culture -> Perspective
-- **Curious readers:** Core Question -> Neuroplasticity -> Open Questions
+- **Curious readers:** Recovery Map -> Neuroplasticity -> Culture
+- **Recovery staff:** Recovery Map -> Emerging Research -> Sources
+- **Researchers and authors:** Neuroplasticity -> Emerging Research -> Open Questions -> Sources
+- **Advocates and educators:** Culture -> Emerging Research -> Open Questions -> Perspective
 
 Implementation decisions:
 
-- Create `start-here.html`.
-- Place a prominent Start Here link near the homepage core question.
+- Integrate Start Here into `index.html` by repurposing the existing Explore the Project section.
+- Place a quiet reading-path jump link near the homepage core question.
+- Use four audience cards in a two-column desktop layout and one-column mobile layout.
 - Add Start Here to the universal footer.
-- Do not add another item to the crowded top navigation during the first pass.
-- Keep each route to approximately three links and a short explanation.
+- Do not add another item to the crowded top navigation.
+- Keep every route moving left to right through the established navigation order.
 
 ### Corrections and Contributions
 
@@ -242,9 +243,9 @@ Success is not defined only by raw traffic. A correction from a source author, a
 
 ## Immediate Next Commit Sequence
 
-1. `Add reader and contributor pathways`
+1. `[completed] Add reader and contributor pathways`
 2. `Add search and sharing metadata`
 3. `Add privacy-friendly analytics`
 4. `Add outreach kit and placement tracker`
 
-The first implementation task is the Start Here and Corrections and Contributions pages.
+The next implementation task is search and sharing metadata.

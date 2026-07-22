@@ -203,8 +203,42 @@ footer {
   background: var(--nav-bg);
   color: #ffffff;
   text-align: center;
-  padding: 30px;
+  padding: 24px 20px;
   margin-top: 50px;
+}
+
+.footer-inner {
+  width: min(100%, 1000px);
+  margin: 0 auto;
+}
+
+.footer-title,
+.footer-tagline {
+  margin: 0;
+}
+
+.footer-tagline {
+  color: #d7deea;
+  font-size: 0.95rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 20px;
+  margin-top: 12px;
+}
+
+.footer-links a {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer-links a:hover,
+.footer-links a:focus {
+  text-decoration: underline;
 }
 
 /* Shared button style */
@@ -337,6 +371,28 @@ nav.brochure-actions a {
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 16px;
+}
+
+.reader-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.route-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 8px;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.route-links span {
+  color: var(--accent);
+}
+
+.section-jump {
+  margin-bottom: 0;
+  font-weight: bold;
 }
 
 /* Author perspective page */
@@ -494,6 +550,10 @@ footer {
   }
 
   .topic-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-grid {
     grid-template-columns: 1fr;
   }
 
