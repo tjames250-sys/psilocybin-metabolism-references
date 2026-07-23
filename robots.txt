@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tjames250-sys.github.io/psilocybin-metabolism-references/sitemap.xml
