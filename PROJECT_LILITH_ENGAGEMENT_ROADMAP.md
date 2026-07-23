@@ -60,21 +60,21 @@ The page will discourage submission of personal medical records or requests for 
 
 ## Phase 2: Search and Sharing
 
-Add the following to the site:
+Completed on 2026-07-23:
 
-- A unique description for every page.
-- A canonical URL for every page.
-- Open Graph title, description, URL, and image metadata.
-- Twitter/X summary-card metadata.
-- `sitemap.xml`.
-- `robots.txt`.
-- Basic `WebSite` and author structured data where appropriate.
-- One 1200 x 630 social-preview image using the project's established artwork and visual language.
+- `[completed]` A unique description for every page.
+- `[completed]` A canonical URL for every page.
+- `[completed]` Open Graph title, description, URL, and image metadata.
+- `[completed]` Twitter/X large summary-card metadata.
+- `[completed]` `sitemap.xml`.
+- `[completed]` `robots.txt`.
+- `[completed]` Basic `WebSite` and author structured data where appropriate.
+- `[completed]` One 1200 x 630 social-preview image using the project's established artwork and visual language.
 
 Proposed social-preview message:
 
-> Psilocybin, Neuroplasticity & Recovery Research  
-> Evidence maps, mechanisms, policy, lived experience, and open questions.
+> Project Lilith<br>
+> Psilocybin, Recovery & Open Questions
 
 After publication, previews will be checked with platform inspection tools and on mobile.
 
@@ -244,8 +244,8 @@ Success is not defined only by raw traffic. A correction from a source author, a
 ## Immediate Next Commit Sequence
 
 1. `[completed] Add reader and contributor pathways`
-2. `Add search and sharing metadata`
+2. `[completed] Add search and sharing metadata`
 3. `Add privacy-friendly analytics`
 4. `Add outreach kit and placement tracker`
 
-The next implementation task is search and sharing metadata.
+The next implementation task is privacy-friendly analytics.
