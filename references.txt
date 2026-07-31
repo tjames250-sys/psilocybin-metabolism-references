@@ -117,6 +117,9 @@ ADDICTION, HARM, AND BROADER CONTEXT
 Bogenschutz MP, Ross S, Bhatt S, Baron T, Forcehimes AA, Laska E, Mennenga SE, O'Donnell K, Owens LT, Podrebarac S, Rotrosen J, Tonigan JS, Worth L (2022).
 "Percentage of Heavy Drinking Days Following Psilocybin-Assisted Psychotherapy vs Placebo in the Treatment of Adult Patients With Alcohol Use Disorder". JAMA Psychiatry. 79(10):953-962. doi:10.1001/jamapsychiatry.2022.2096.
 
+Johnson MW, Naudé GP, Hendricks PS, Garcia-Romeu A (2026).
+"Psilocybin or Nicotine Patch for Smoking Cessation: A Pilot Randomized Clinical Trial". JAMA Network Open. 9(3):e260972. doi:10.1001/jamanetworkopen.2026.0972.
+
 Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR (2014).
 "Pilot study of the 5-HT2A receptor agonist psilocybin in the treatment of tobacco addiction". Journal of Psychopharmacology. 28(11):983-992. doi:10.1177/0269881114548296.
 
