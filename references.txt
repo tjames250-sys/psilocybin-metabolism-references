@@ -104,6 +104,9 @@ Lukasiewicz K, Baker JJ, Zuo Y, Lu J (2021).
 Agnorelli C, Spriggs M, Godfrey K, Sawicka G, Bohl B, Douglass H, Fagiolini A, Parastoo H, Carhart-Harris R, Nutt D, Erritzoe D (2025).
 "Neuroplasticity and psychedelics: A comprehensive examination of classic and non-classic compounds in pre and clinical models". Neuroscience & Biobehavioral Reviews. 172:106132. doi:10.1016/j.neubiorev.2025.106132.
 
+Johansen A, Plaven-Sigray P, Madsen MK, Sondergaard A, Messel C, Geisler M, Nasser A, McCulloch DEW, Beliveau V, Vassilieva A, Lund A, Lehel S, Ozenne B, Stenbaek DS, Fisher PM, Svarer C, Knudsen GM (2026).
+"Psilocybin's effect on human brain synaptic plasticity". Translational Psychiatry. Published online July 15, 2026. doi:10.1038/s41398-026-04285-y. PMID: 42457666.
+
 Ardito F, Giuliani M, Perrone D, Troiano G, Lo Muzio L (2017).
 "The crucial role of protein phosphorylation in cell signaling and its use as targeted therapy (Review)". International Journal of Molecular Medicine. 40(2):271-280. doi:10.3892/ijmm.2017.3036. PMCID: PMC5500920. PMID: 28656226.
 
