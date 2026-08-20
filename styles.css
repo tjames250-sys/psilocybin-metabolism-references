@@ -385,6 +385,15 @@ nav.brochure-actions a {
   padding: 16px;
 }
 
+.evidence-bridge .bridge-question {
+  background: var(--panel-soft);
+  border: 2px solid var(--accent);
+}
+
+.evidence-bridge .evidence-boundary {
+  margin-top: 18px;
+}
+
 .reader-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
