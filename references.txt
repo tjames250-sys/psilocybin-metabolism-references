@@ -267,3 +267,25 @@ U.S. Food and Drug Administration (2025).
 
 U.S. Department of Justice, Drug Enforcement Administration, Diversion Control Division (2026).
 "Controlled Substances - Alphabetical Order". Orange Book controlled substances list, revised 25-Jun-26. https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf
+
+================================================================================
+SEPTEMBER 2026 PRECLINICAL RESEARCH
+================================================================================
+
+"Psilocybin prevents chemotherapy-induced peripheral neuropathy via mitochondrial trafficking preservation" (2026). Science. Published September 3, 2026. doi:10.1126/science.aec6116.
+https://doi.org/10.1126/science.aec6116
+Evidence: preclinical animal models; not human efficacy results. Title, date and DOI confirmed by institutional/AAAS announcements; publisher full text was inaccessible during this update.
+
+University of Texas MD Anderson Cancer Center (2026).
+"Psilocybin prevents chemotherapy-related nerve injury and associated symptoms in preclinical models". September 3, 2026.
+https://www.mdanderson.org/newsroom/research-newsroom/psilocybin-prevents-chemotherapy-related-nerve-injury-and-associated-symptoms-in-preclinical-models.h00-159858501.html
+Official institutional summary used for mechanistic context. Accessed September 7, 2026.
+
+================================================================================
+REGULATORY / CURRENT DEVELOPMENTS
+================================================================================
+
+U.S. Food and Drug Administration (2026).
+"Considerations for Potential Future Therapeutic Use of Psychedelic Drugs Public Hearing". September 14, 2026, 12:30-4:30 p.m. ET. Written comments due October 5, 2026, 11:59 p.m. ET.
+https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/considerations-potential-future-therapeutic-use-psychedelic-drugs-public-hearing-09142026
+Accessed September 7, 2026. Public hearing / request for input; not a clinical trial or approval.
