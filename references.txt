@@ -41,6 +41,10 @@ Anvisa (2023).
 PSILOCIN METABOLISM AND 4-HIAA
 ================================================================================
 
+Marije E. Otto, Katelijne V. van der Heijden, Jan W. Schoones, Michiel J. van Esdonk, Laura G. J. M. Borghans, Gabriel E. Jacobs, J. G. Coen van Hasselt (2025).
+"Clinical Pharmacokinetics of Psilocin After Psilocybin Administration: A Systematic Review and Post-Hoc Analysis". Clinical Pharmacokinetics. 64:53-66. doi:10.1007/s40262-024-01454-4.
+Author-name correction: Clinical Pharmacokinetics. 64:465 (2025). doi:10.1007/s40262-025-01487-3. Corrected author name: J. G. Coen van Hasselt.
+
 Thomann J, Kolaczynska KE, Stoeckmann OV, Rudin D, Vizeli P, Hoener MC, Pryce CR, Vollenweider FX, Liechti ME, Duthaler U (2024).
 "In vitro and in vivo metabolism of psilocybin's active metabolite psilocin". Frontiers in Pharmacology. 15:1391689. doi:10.3389/fphar.2024.1391689. PMCID: PMC11089204. PMID: 38741590.
 
