@@ -273,12 +273,29 @@ U.S. Department of Justice, Drug Enforcement Administration, Diversion Control D
 "Controlled Substances - Alphabetical Order". Orange Book controlled substances list, revised 25-Jun-26. https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf
 
 ================================================================================
+CANCER SUPPORT AND PALLIATIVE CARE: HUMAN STUDIES
+================================================================================
+
+Manish Agrawal, Kim Roddy, Betsy Jenkins, Celia Leeks, Ezekiel Emanuel (2025).
+"Long-term benefits of single-dose psilocybin in depressed patients with cancer". Cancer. 131(12):e35889. doi:10.1002/cncr.35889. PMID: 40518804.
+Evidence: uncontrolled two-year follow-up of psilocybin with psychological support; not a randomized long-term comparison.
+
+Margaret L. Ross, Ravi Iyer, Martin L. Williams, Mark Boughey, Clare O'Callaghan, Richard Hiscock, Justin Dwyer (2025).
+"Psilocybin-assisted psychotherapy for depression and anxiety associated with life threatening illness: A phase 2b randomized controlled trial". General Hospital Psychiatry. 96:322-331. doi:10.1016/j.genhosppsych.2025.08.001. PMID: 40858059.
+Evidence: small randomized trial with an open-label extension; includes life-threatening illnesses beyond cancer.
+
+James Downar, Julie Lapenskie, Koby Anderson, Gaelle Parsons, Nadia Polskaia, Genevieve Lalumiere, Peter Lawlor (2026).
+"PSilocybin for psYCHological and existential distress in PALliative care (PSYCHED-PAL): A single arm unblinded clinical trial". Palliative Medicine. 40(4):514-523. doi:10.1177/02692163261416269. PMID: 41617652.
+Evidence: small open-label, single-arm feasibility study in advanced illness, predominantly cancer.
+
+================================================================================
 SEPTEMBER 2026 PRECLINICAL RESEARCH
 ================================================================================
 
-"Psilocybin prevents chemotherapy-induced peripheral neuropathy via mitochondrial trafficking preservation" (2026). Science. Published September 3, 2026. doi:10.1126/science.aec6116.
-https://doi.org/10.1126/science.aec6116
-Evidence: preclinical animal models; not human efficacy results. Title, date and DOI confirmed by institutional/AAAS announcements; publisher full text was inaccessible during this update.
+Mario Heles, Lilach Pasvolsky, Hinduja Sathishkumar, Shorook Naara, Yen Vu, Caitlyn L. Stewart, Tongxin Xie, Frederico O. Gleber-Netto, William McCarthy, Dan Yaniv, Shashank S. Kamal, Hajira Elahi, Pengyu Zhu, Megan L. Uhelski, Jordan Chatwin, Andrew Lara, Danielle L. Stolley, Michael R. Migden, Z-Hye Lee, Shiyanth Thevasagayampillai, Preethi H. Gunaratne, Kaoutar Ait-Ahmad, M. J. Kuykendall, Sebnem Ece Eksi, Lorenzo Cohen, Jeremy C. Borniger, Eyal Gottlieb, Gregory H. Jones, Patrick M. Dougherty, Moran Amit (2026).
+"Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation". Science. 393(6815):eaec6116. Published September 3, 2026. doi:10.1126/science.aec6116.
+https://mdanderson.elsevierpure.com/en/publications/psilocybin-prevents-chemotherapy-induced-peripheral-neuropathy-th/
+Evidence: preclinical research; not human efficacy results. Author list, citation and abstract verified against MD Anderson's institutional research record. Publisher full text was not independently reviewed.
 
 University of Texas MD Anderson Cancer Center (2026).
 "Psilocybin prevents chemotherapy-related nerve injury and associated symptoms in preclinical models". September 3, 2026.
